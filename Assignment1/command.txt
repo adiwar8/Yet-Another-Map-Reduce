@@ -1,0 +1,2 @@
+runmapreducejob -i /home/PES2UG20CS026/YetAnotherMapReduce/Assignment1/Air_Quality_2017.json -o /home/PES2UG20CS026/YetAnotherMapReduce/outputfile -m /home/PES2UG20CS026/YetAnotherMapReduce/Assignment1/mapper.py -r /home/PES2UG20CS026/YetAnotherMapReduce/Assignment1/reducer.py
+
